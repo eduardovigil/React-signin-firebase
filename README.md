@@ -1,5 +1,10 @@
 # Welcome to your Expo app 👋
 
+Foro #2 DPS
+David Eduaro Rodriguez Vigil RV202840
+Link del video explicativo:
+https://youtu.be/3EYpjuKsNzE
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
