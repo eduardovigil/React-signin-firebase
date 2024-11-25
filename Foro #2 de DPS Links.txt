@@ -1,0 +1,24 @@
+Diseño y programación de software  multiplataforma  
+
+ Ciclo 02 2024   
+
+Docente: Ing. Alexander Siguenza  
+
+“Foro #2 Inicio de sesión de React Native” 
+
+ Presentado por:  
+
+David Eduardo Rodriguez Vigil – RV202840 
+
+Link del repositorio de autenticación de social Google: 
+
+https://github.com/eduardovigil/React-native-signin  
+
+Link del repositorio de autenticación de correo electrónico y contraseña: 
+
+https://github.com/eduardovigil/React-signin-firebase  
+
+Link del video explicativo: 
+
+https://youtu.be/3EYpjuKsNzE
+
